@@ -1,0 +1,8 @@
+Primeiro comando: git status
+Segundo comando: git add .
+Terceiro comando: git commit -m 'mensagem do commit'
+Quarto comando: git push origin main
+
+
+Clonar o repositório: git clone https://github.com/Scohati/aulas-pcdWeb-25-1.git
+Buscar novidades no repositório: git pull
