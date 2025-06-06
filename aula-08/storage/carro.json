@@ -1,0 +1,10 @@
+{
+    "marca": "Toyota",
+    "modelo": "Etios",
+    "ano": "2022",
+    "cor": "azul",
+    "adicionais": [],
+    "tipoCombustivel": [407, 2023],
+    "qtdDonos": 1,
+    "kmRodado": 103000
+}
