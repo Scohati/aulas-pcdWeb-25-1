@@ -1,0 +1,7 @@
+npm install -g pnpm (caso ainda não esteja instalado)
+
+
+pnpm create vite nome_do_projeto --template react (para criar um novo projeto)
+cd nome_do_projeto (acessar a pastam do projeto)
+pnpm install (instalar as dependencias do projeto.)
+pnpm dev (rodar o projeto, hospedara na rota http://localhost:5173/)
