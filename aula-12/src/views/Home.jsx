@@ -4,6 +4,12 @@ import Footer from '../components/Footer'
 
 function Home() {
 
+    function logandoOla() {
+        console.log('ola')
+    }
+
+    logandoOla()
+    
     return (
         <section className="home-container">
             <Header numero={10}/>
